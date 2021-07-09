@@ -18,6 +18,4 @@ PrivateRoute.defaultProps = {
     redirectTo:'/'
 }
 
-
-
 export default PrivateRoute
